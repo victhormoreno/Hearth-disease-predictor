@@ -3,6 +3,6 @@ Sistema predictiu de malalties del cor en homes basat en la informació clínica
 
 ---
 
-L'informe del treball te'l pots descarregar [aquí](../report/victor_moreno_report.pdf)
+L'informe del treball te'l pots descarregar [aquí](report/victor_moreno_report.pdf)
 
 ---
